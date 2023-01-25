@@ -22,7 +22,8 @@ ul{
  .content{ 
     width: 500px;
     margin: 4 auto;
+    color:green; 
  }
  footer{
-    background-color:rgb(5, 50, 5); 
+    background-color:rgb(15, 80, 15); 
  }
